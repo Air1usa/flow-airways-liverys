@@ -410,7 +410,7 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
-                {
+                 {
                     "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝗳𝗹𝗼𝘄𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝙡𝙞𝙫𝙚𝙧𝙮",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
@@ -419,13 +419,13 @@
                     "credits": "air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
                 },
                 {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝗴𝗼 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗳𝗹𝗼𝘄 𝗹𝗶𝘃𝗲𝗿𝘆 𝙡𝙞𝙫𝙚𝙧𝙮",
+                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝗴𝗼 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗳𝗹𝗼𝘄 𝙡𝙞𝙫𝙚𝙧𝙮",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/mCsYSzYV/flow-airways-va-brawn-flow-a350.png"
+                        "https://i.ibb.co/NgrFLmkq/flow-airways-va-brawn-flow-a350.png"
                     ],
                     "credits": "air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                },
+                }
             ],
             "labels": [
                 "Specular shader",
