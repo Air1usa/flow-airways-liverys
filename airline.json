@@ -517,13 +517,13 @@
             "name": "Boeing b777-300ER",
             "liveries": [
                 {
-                    "name": "qatar airways F1",
+                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝗳𝗹𝗼𝘄𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝙡𝙞𝙫𝙚𝙧𝙮",
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://i.ibb.co/5X9HkDsQ/F1777-QATAR.png"
+                        "https://i.ibb.co/R4JM7hwB/flow-airways-express-va-777-300er-engen.png"
                     ],
-                    "credits": "this will be deleted after the qatar airways event"
-                }
+                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
+                } 
             ],
             "labels": [
                 "Specular shader",
