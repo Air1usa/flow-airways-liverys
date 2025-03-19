@@ -194,6 +194,13 @@
         "51": {
             "name": "Major Tom (hot air balloon)",
             "liveries": [
+                {
+                    "name": "fxw ad",
+                    "texture": [
+                        "https://i.ibb.co/Hfs4fZ0J/fxw-hier.png"
+                    ],
+                    "credits": "air1usa"
+                }
             ],
             "labels": [
                 "Texture"
