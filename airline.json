@@ -194,13 +194,6 @@
         "51": {
             "name": "Major Tom (hot air balloon)",
             "liveries": [
-                {
-                    "name": "fxw ad",
-                    "texture": [
-                        "https://i.ibb.co/Hfs4fZ0J/fxw-hier.png"
-                    ],
-                    "credits": "air1usa"
-                }
             ],
             "labels": [
                 "Texture"
@@ -374,6 +367,13 @@
         "247": {
             "name": "Bombardier Dash8-q400",
             "liveries": [
+                {
+                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝘦𝘹𝘱𝘳𝘦𝘴𝘴",
+                    "texture": [
+                        "https://i.ibb.co/GfHZqYpq/1-o-1.png"
+                    ],
+                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
+                }
             ],
             "labels": [
                 "Texture"
