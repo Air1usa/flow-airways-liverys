@@ -1,7 +1,7 @@
 {
-    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨",
-    "color": "brown",
-    "bgcolor": "blue",
+    "name": "",
+    "color": "",
+    "bgcolor": "",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -31,6 +31,14 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                {
+                    "name": "delta green",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
+                        "https://i.ibb.co/b5MG2wF9/delta-green.png"
+                    ],
+                    "credits": "Air1usa"
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -71,6 +79,22 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
+                {
+                    "name": "Royal Jordanian",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/a380/specular.jpg",
+                        "https://i.ibb.co/XZsThVfm/royal-jordanian-air-a380.png"
+                    ],
+                    "credits": "Air1usa"
+                },
+                {
+                    "name": "AA",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/a380/specular.jpg",
+                        "https://i.ibb.co/p6sQXLRm/aa-a380-old.png"
+                    ],
+                    "credits": "Air1usa"
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -268,13 +292,6 @@
         "3575": {
             "name": "Boeing b787-9",
             "liveries": [
-                {
-                    "name": "Hainan Airlines",
-                    "texture": [
-                        "https://i.ibb.co/xtzCWNnN/Hainan-Airlines-soyteax-5-star-SKY-TRAX-livery.png"
-                    ],
-                    "credits": "Air1usa"
-                }
             ],
             "labels": [
                 "Texture"
@@ -331,15 +348,6 @@
         "3307": {
             "name": "Bombardier CRJ700",
             "liveries": [
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝘦𝘹𝘱𝘳𝘦𝘴𝘴",
-                    "texture": [
-                        "https://i.ibb.co/DP7Ks9tS/flow-airways-express-va-crj-700-bode.png",
-                        "https://i.ibb.co/fdH1Fd7R/flow-airways-express-va-crj-700-wing.png",
-                        "https://i.ibb.co/svZkg8pV/flow-airways-express-va-crj-700-engen.png"
-                    ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                }
             ],
             "labels": [
                 "Fuselage texture",
@@ -374,13 +382,6 @@
         "247": {
             "name": "Bombardier Dash8-q400",
             "liveries": [
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝘦𝘹𝘱𝘳𝘦𝘴𝘴",
-                    "texture": [
-                        "https://i.ibb.co/GfHZqYpq/1-o-1.png"
-                    ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                }
             ],
             "labels": [
                 "Texture"
@@ -423,24 +424,6 @@
         "3341": {
             "name": "Embraer ERJ 170",
             "liveries": [
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝘦𝘹𝘱𝘳𝘦𝘴𝘴 𝗳𝗹𝗼𝘄𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝙡𝙞𝙫𝙚𝙧𝙮",
-                    "texture": [
-                        "https://i.ibb.co/kVd0ZKhV/flow-airways-va-e170-mane.png",
-                        "https://i.ibb.co/m5w9gNcL/Wings.jpg",
-                        "https://i.ibb.co/v70gbKP/flow-airways-va-e170.png"
-                    ],
-                    "credits": "air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                },
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝘦𝘹𝘱𝘳𝘦𝘴𝘴 gray",
-                    "texture": [
-                        "https://i.ibb.co/8L9JDdTW/flow-airways-va-e170-mane.png",
-                        "https://i.ibb.co/h1Y878Fm/Wings.jpg",
-                        "https://i.ibb.co/20xsvCj5/flow-airways-va-e170.png"
-                    ],
-                    "credits": "𝓰𝓻𝓮𝓮𝓷𝓪𝓲𝓻𝔀𝓪𝔂𝓼"
-                }
             ],
             "labels": [
                 "Fuselage texture",
@@ -451,30 +434,6 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝗳𝗹𝗼𝘄𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝙡𝙞𝙫𝙚𝙧𝙮",
-                    "texture": [
-                        "/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/BKGgzV7c/flow-airways-va-a350-1.png"
-                    ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                },
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝗴𝗼 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗳𝗹𝗼𝘄 𝙡𝙞𝙫𝙚𝙧𝙮",
-                    "texture": [
-                        "/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/YFf1jTnD/flow-airways-va-brawn-flow-a350.png"
-                    ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                },
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 sunset/moon 𝙡𝙞𝙫𝙚𝙧𝙮",
-                    "texture": [
-                        "/models/aircraft/premium/a350/specular.jpg",
-                        "https://i.ibb.co/N5MWCK7/flow-va-sun-and-moon.png"
-                    ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                }
             ],
             "labels": [
                 "Specular shader",
@@ -492,20 +451,6 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝗳𝗹𝗼𝘄𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝙡𝙞𝙫𝙚𝙧𝙮",
-                    "texture": [
-                        "https://i.ibb.co/0jzZ2ZL3/flow-airways-va-a321-neo.png"
-                    ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                },
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝒻𝓇𝑒𝑒𝒹𝑜𝓂 𝑜𝓃𝑒 𝙡𝙞𝙫𝙚𝙧𝙮",
-                    "texture": [
-                        "https://i.ibb.co/JFzBWFqh/flow-airways-va-usa-one-a321-neo.png"
-                    ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                }
             ],
             "labels": [
                 "Texture"
@@ -539,12 +484,20 @@
             "name": "Boeing b777-300ER",
             "liveries": [
                 {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝗳𝗹𝗼𝘄𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝙡𝙞𝙫𝙚𝙧𝙮",
+                    "name": "RAM fictional",
                     "texture": [
                         "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://i.ibb.co/mCMPNsGV/flow-airways-va-777-300er-engen.png"
+                        "https://i.ibb.co/5xrWMg2r/ram-fictional.png"
                     ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
+                    "credits": "Air1usa"
+                },
+                {
+                    "name": "GULF",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://i.ibb.co/N2bx5zCV/golf-777.png"
+                    ],
+                    "credits": "Air1usa"
                 }
             ],
             "labels": [
