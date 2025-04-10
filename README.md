@@ -15,3 +15,4 @@ We are a virtual airline in GeoFS flight simulator. You need to open GeoFS and i
 
 [![GEOFS](https://img.shields.io/badge/Open-Link?style=plastic&label=GeoFS&labelColor=%235c7673&color=%23000000
 )](https://www.geo-fs.com/geofs.php)
+[![LIVERYSELECTOR](https://img.shields.io/badge/Download-Link?style=plastic&label=LiverySelector&labelColor=%231c8e7f&color=%23000000)](https://github.com/kolos26/GEOFS-LiverySelector/tree/main)
