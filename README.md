@@ -11,7 +11,7 @@
 
 ## How to fly for us
 
-We are a virtual airline in GeoFS flight simulator. You need to open GeoFS and install LiverySelector. Then you need to open the json, click RAW, copy the link, and paste it into the virtual airlines tab in LiverySelector.you can fly for us at (https://discord.gg/FQfY2pS3)
+We are a virtual airline in GeoFS flight simulator. You need to open GeoFS and install LiverySelector. Then you need to open the json, click RAW, copy the link, and paste it into the virtual airlines tab in LiverySelector.you can fly for us at
 
 [![GEOFS](https://img.shields.io/badge/Open-Link?style=plastic&label=GeoFS&labelColor=%235c7673&color=%23000000
 )](https://www.geo-fs.com/geofs.php)
