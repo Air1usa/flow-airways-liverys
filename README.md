@@ -3,3 +3,12 @@
 
 
 # 𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨®️ -  𝘧𝘭𝘰𝘸𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘫𝘰𝘶𝘳𝘯𝘦𝘺™️
+
+
+
+
+
+
+## How to fly for us
+
+We are a virtual airline in GeoFS flight simulator. You need to open GeoFS and install LiverySelector. Then you need to open the json, click RAW, copy the link, and paste it into the virtual airlines tab in LiverySelector.you can fly for us at (https://discord.gg/FQfY2pS3)
