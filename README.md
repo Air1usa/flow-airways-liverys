@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.discordapp.com/attachments/1326295321696800920/1366457649712988261/fxw_tranpar_logo.png?ex=6811045b&is=680fb2db&hm=5e9c93b28b84668ba94df2e75654f560182940c45868ecd37c2d41c181242a06&)
+![Logo](![image](https://github.com/user-attachments/assets/faa8a63b-1790-461a-b1b5-71d74284f7d2)
 
 
 # 𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨®️ -  𝘧𝘭𝘰𝘸𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘫𝘰𝘶𝘳𝘯𝘦𝘺™️
