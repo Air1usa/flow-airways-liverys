@@ -1,7 +1,7 @@
 {
     "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨",
-    "color": "brown",
-    "bgcolor": "blue",
+    "color": "#b97a56",
+    "bgcolor": "#1622d0",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
