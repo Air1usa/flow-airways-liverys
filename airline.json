@@ -752,6 +752,7 @@
                 "Fuselage texture",
                 "Engine texture"
             ]
+        },
         "29": {
             "name": "Dassault Rafale",
             "liveries": [
@@ -761,6 +762,33 @@
                 "Main texture",
                 "Specular shader",
                 "Cockpit texture"
+            ]
+        },
+        "2953": {
+            "name": "NASA Space Shuttle",
+            "liveries": [
+            ],
+            "labels":[
+                "Main texture",
+                "EFT",
+                "SRB"
+            ]
+        },
+        "1014": {
+            "name": "Ilyushin IL-76TD",
+            "liveries": [
+            ],
+            "labels": [
+                "Fuselage texture",
+                "Wing texture"
+            ]
+        },
+        "1023": {
+            "name": "McDonnell Douglas MD11",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
             ]
         }
     }
