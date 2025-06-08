@@ -786,6 +786,13 @@
         "1023": {
             "name": "McDonnell Douglas MD11",
             "liveries": [
+                {
+                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 cargo",
+                    "texture": [
+                        "https://i.ibb.co/KRmj0ng/Screenshot-2025-06-08-at-11-45-10-AM-1.png"
+                    ],
+                    "credits": "💀loading💀"
+                }
             ],
             "labels": [
                 "Texture"
