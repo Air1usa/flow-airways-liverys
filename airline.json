@@ -324,15 +324,6 @@
         "3307": {
             "name": "Bombardier CRJ700",
             "liveries": [
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝘦𝘹𝘱𝘳𝘦𝘴𝘴",
-                    "texture": [
-                        "https://i.ibb.co/DP7Ks9tS/flow-airways-express-va-crj-700-bode.png",
-                        "https://i.ibb.co/fdH1Fd7R/flow-airways-express-va-crj-700-wing.png",
-                        "https://i.ibb.co/svZkg8pV/flow-airways-express-va-crj-700-engen.png"
-                    ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                }
             ],
             "labels": [
                 "Fuselage texture",
@@ -367,13 +358,6 @@
         "247": {
             "name": "Bombardier Dash8-q400",
             "liveries": [
-                {
-                    "name": "𝙛𝙡𝙤𝙬 𝙖𝙞𝙧𝙬𝙖𝙮𝙨 𝘦𝘹𝘱𝘳𝘦𝘴𝘴",
-                    "texture": [
-                        "https://i.ibb.co/GfHZqYpq/1-o-1.png"
-                    ],
-                    "credits": "Air1usa 𝓕𝓧𝓦-𝓬𝓮𝓸"
-                }
             ],
             "labels": [
                 "Texture"
